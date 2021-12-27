@@ -1,0 +1,40 @@
+content:
+- Overview of the basic program
+- The classification of basic types
+- Standard output
+- Values and variables
+- Boolean and logical operations
+- Standard input
+- Data types
+- Type conversion
+- Reading data with a readLine
+- Integers in action
+- Relational operators
+- Equality
+- String basics
+- String templates
+- If expression
+- Repeating blocks
+- Characters
+- Working with strings
+- Getting substrings
+- Ranges
+- For loop and ranges
+- Regexps
+- Introduction to MutableList
+- Work with MutableLists
+- For loop and lists
+- Processing strings
+- Comments
+- Declaring functions
+- While loops
+- Multi-dimensional list
+- List
+- Mutable List
+- When expression
+- Jumps and returns
+- Functional decomposition
+- Default arguments
+- Named arguments
+- Constructors
+- Debugging techniques

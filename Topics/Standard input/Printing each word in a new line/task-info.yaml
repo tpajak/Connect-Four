@@ -1,0 +1,27 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    import java.util.Scanner
+
+    fun main() {
+        val scanner = Scanner(System.`in`)
+        // put your code here
+    }
+  learner_created: false
+- name: src/test.ws.kts
+  visible: true
+  learner_created: true
+- name: src/test.kts
+  visible: true
+  learner_created: true
+- name: src/tes.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/4451#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 25 Oct 2021 11:01:41 UTC
+record: -1

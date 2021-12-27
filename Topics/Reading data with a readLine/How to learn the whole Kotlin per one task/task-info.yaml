@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11228#comment
+status: Solved
+feedback:
+  message: |-
+    <html>desert you
+
+    </html>
+  time: Mon, 25 Oct 2021 13:11:04 UTC
+record: -1

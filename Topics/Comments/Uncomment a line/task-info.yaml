@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    /**
+     * The main function is the entry point of the program
+     *
+    fun main() {
+        /*
+        /* println(980233)
+        // println(893457) */
+        // println(789722)
+        */
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4412#comment
+status: Solved
+record: -1

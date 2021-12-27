@@ -1,0 +1,1 @@
+val color = "colo.?r.?".toRegex()

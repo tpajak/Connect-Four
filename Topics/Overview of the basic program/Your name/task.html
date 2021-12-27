@@ -1,0 +1,9 @@
+<h2>Your name</h2>
+<html>
+ <head></head>
+ <body>
+  <p>Write a program that displays the string <strong>"My name is " </strong>followed by your name.</p> 
+  <p><strong>Output example</strong></p> 
+  <pre><code class="language-no-highlight">My name is John</code></pre>
+ </body>
+</html><br><br><font color="gray">Memory limit: 256 MB</font><br><font color="gray">Time limit: 8 seconds</font><br><br>

@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ConnectFourTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-27T20:39:31" hostname="MBP-FUE28" time="0.792">
+  <properties/>
+  <testcase name="start" classname="ConnectFourTest" time="0.792"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Connect Four
+First player's name:
+> Anna
+Second player's name:
+> Joan
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 4x5
+Board rows should be from 5 to 9
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 4X5
+Board rows should be from 5 to 9
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 10x6
+Board rows should be from 5 to 9
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 12x6
+Board rows should be from 5 to 9
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 6x1
+Board columns should be from 5 to 9
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 7X4
+Board columns should be from 5 to 9
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 8x10
+Board columns should be from 5 to 9
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 9x30
+Board columns should be from 5 to 9
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+?[1;31m
+Start test 2?[0m
+Connect Four
+First player's name:
+> Anna
+Second player's name:
+> Joan
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 6x
+Invalid input
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> X5
+Invalid input
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 10k6
+Invalid input
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 12Z6
+Invalid input
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> a  7x9
+Invalid input
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 5x8  t
+Invalid input
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+?[1;31m
+Start test 3?[0m
+Connect Four
+First player's name:
+> Anna
+Second player's name:
+> Joan
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 5x5
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+> 1
+Anna VS Joan
+5 X 5 board
+Single game
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+Connect Four
+First player's name:
+> Anna
+Second player's name:
+> Joan
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 9X9
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+> 1
+Anna VS Joan
+9 X 9 board
+Single game
+ 1 2 3 4 5 6 7 8 9
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╩═╩═╩═╩═╝
+Anna's turn:
+Connect Four
+First player's name:
+> Anna
+Second player's name:
+> Joan
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 9X5
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+> 1
+Anna VS Joan
+9 X 5 board
+Single game
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+Connect Four
+First player's name:
+> Anna
+Second player's name:
+> Joan
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+> 1
+Anna VS Joan
+6 X 7 board
+Single game
+ 1 2 3 4 5 6 7
+║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╩═╩═╝
+Anna's turn:
+Connect Four
+First player's name:
+> Anna
+Second player's name:
+> Joan
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+>    7   x   9   
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+> 1
+Anna VS Joan
+7 X 9 board
+Single game
+ 1 2 3 4 5 6 7 8 9
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╩═╩═╩═╩═╝
+Anna's turn:
+Connect Four
+First player's name:
+> Anna
+Second player's name:
+> Joan
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+>   8  X   6   
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+> 1
+Anna VS Joan
+8 X 6 board
+Single game
+ 1 2 3 4 5 6
+║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╩═╝
+Anna's turn:
+Connect Four
+First player's name:
+> Anna
+Second player's name:
+> Joan
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 	  9 	X 	5  	 
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+> 1
+Anna VS Joan
+9 X 5 board
+Single game
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+?[1;31m
+Start test 4?[0m
+Connect Four
+First player's name:
+> Anna
+Second player's name:
+> Joan
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 8x7
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+> 
+Anna VS Joan
+8 X 7 board
+Single game
+ 1 2 3 4 5 6 7
+║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╩═╩═╝
+Anna's turn:
+?[1;31m
+Start test 5?[0m
+Connect Four
+First player's name:
+> Anna
+Second player's name:
+> Joan
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 5X5
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+> 1
+Anna VS Joan
+5 X 5 board
+Single game
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 0
+The column number is out of range (1 - 5)
+Anna's turn:
+> 6
+The column number is out of range (1 - 5)
+Anna's turn:
+> 7
+The column number is out of range (1 - 5)
+Anna's turn:
+> 10
+The column number is out of range (1 - 5)
+Anna's turn:
+> 122
+The column number is out of range (1 - 5)
+Anna's turn:
+> one
+Incorrect column number
+Anna's turn:
+> 7i
+Incorrect column number
+Anna's turn:
+> k
+Incorrect column number
+Anna's turn:
+> 12z
+Incorrect column number
+Anna's turn:
+> end
+Game over!
+?[1;31m
+Start test 6?[0m
+Connect Four
+First player's name:
+> Anna
+Second player's name:
+> Joan
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 5X5
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+> 3
+Anna VS Joan
+5 X 5 board
+Total 3 games
+Game #1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║*║ ║ ║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║o║
+║ ║*║ ║ ║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║o║
+║ ║*║*║ ║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║o║
+║ ║ ║ ║ ║o║
+║ ║*║*║ ║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║o║
+║ ║ ║ ║ ║o║
+║ ║*║*║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║o║
+║ ║ ║ ║ ║o║
+║ ║ ║ ║ ║o║
+║ ║*║*║*║o║
+╚═╩═╩═╩═╩═╝
+Player Anna won
+Score
+Anna: 2 Joan: 0
+Game #2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║ ║ ║ ║ ║
+║*║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║ ║ ║ ║ ║
+║*║*║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║o║ ║ ║ ║
+║*║*║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║o║ ║ ║ ║
+║*║*║*║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║o║o║ ║ ║
+║*║*║*║ ║ ║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║o║o║ ║ ║
+║*║*║*║*║ ║
+╚═╩═╩═╩═╩═╝
+Player Joan won
+Score
+Anna: 2 Joan: 2
+Game #3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║ ║ ║ ║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║ ║ ║o║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║ ║ ║ ║ ║
+║*║ ║ ║o║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║ ║ ║ ║ ║
+║*║ ║o║o║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║ ║ ║ ║ ║
+║*║ ║ ║ ║ ║
+║*║ ║o║o║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║ ║ ║ ║ ║
+║*║ ║ ║ ║ ║
+║*║o║o║o║o║
+╚═╩═╩═╩═╩═╝
+Player Anna won
+Score
+Anna: 4 Joan: 2
+Game over!
+?[1;31m
+Start test 7?[0m
+Connect Four
+First player's name:
+> Anna
+Second player's name:
+> Joan
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 5X5
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+> 3
+Anna VS Joan
+5 X 5 board
+Total 3 games
+Game #1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║ ║ ║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║*║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║ ║ ║ ║ ║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║ ║ ║ ║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║*║ ║ ║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║*║o║ ║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║ ║ ║ ║ ║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║ ║ ║ ║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║ ║ ║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║*║ ║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║*║ ║ ║ ║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║*║o║ ║ ║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║*║o║*║ ║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║*║o║*║o║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 2
+ 1 2 3 4 5
+║ ║*║ ║ ║ ║
+║ ║*║o║*║o║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 3
+ 1 2 3 4 5
+║ ║*║o║ ║ ║
+║ ║*║o║*║o║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 4
+ 1 2 3 4 5
+║ ║*║o║*║ ║
+║ ║*║o║*║o║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 1
+ 1 2 3 4 5
+║ ║*║o║*║ ║
+║o║*║o║*║o║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 5
+ 1 2 3 4 5
+║ ║*║o║*║*║
+║o║*║o║*║o║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 1
+ 1 2 3 4 5
+║o║*║o║*║*║
+║o║*║o║*║o║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+It is a draw
+Score
+Anna: 1 Joan: 1
+Game #2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║*║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║*║o║ ║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║ ║ ║ ║ ║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║ ║ ║ ║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║ ║ ║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║*║ ║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║ ║ ║ ║ ║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║ ║ ║ ║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║*║ ║ ║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║*║o║ ║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║*║o║*║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║o║ ║ ║ ║
+║*║o║*║o║*║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║o║*║ ║ ║
+║*║o║*║o║*║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║o║*║o║ ║
+║*║o║*║o║*║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║o║*║o║*║
+║*║o║*║o║*║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 2
+ 1 2 3 4 5
+║ ║o║ ║ ║ ║
+║ ║o║*║o║*║
+║*║o║*║o║*║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 3
+ 1 2 3 4 5
+║ ║o║*║ ║ ║
+║ ║o║*║o║*║
+║*║o║*║o║*║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 4
+ 1 2 3 4 5
+║ ║o║*║o║ ║
+║ ║o║*║o║*║
+║*║o║*║o║*║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 1
+ 1 2 3 4 5
+║ ║o║*║o║ ║
+║*║o║*║o║*║
+║*║o║*║o║*║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 5
+ 1 2 3 4 5
+║ ║o║*║o║o║
+║*║o║*║o║*║
+║*║o║*║o║*║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 1
+ 1 2 3 4 5
+║*║o║*║o║o║
+║*║o║*║o║*║
+║*║o║*║o║*║
+║o║*║o║*║o║
+║*║o║*║o║*║
+╚═╩═╩═╩═╩═╝
+It is a draw
+Score
+Anna: 2 Joan: 2
+Game #3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║ ║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║ ║ ║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║ ║ ║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║*║ ║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║ ║ ║ ║ ║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║ ║ ║ ║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║*║ ║ ║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║*║o║ ║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 1
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║ ║ ║ ║ ║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║ ║ ║ ║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║ ║ ║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║*║ ║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║ ║ ║ ║ ║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 2
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║*║ ║ ║ ║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 3
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║*║o║ ║ ║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 4
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║*║o║*║ ║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 5
+ 1 2 3 4 5
+║ ║ ║ ║ ║ ║
+║ ║*║o║*║o║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 2
+ 1 2 3 4 5
+║ ║*║ ║ ║ ║
+║ ║*║o║*║o║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 3
+ 1 2 3 4 5
+║ ║*║o║ ║ ║
+║ ║*║o║*║o║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 4
+ 1 2 3 4 5
+║ ║*║o║*║ ║
+║ ║*║o║*║o║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 1
+ 1 2 3 4 5
+║ ║*║o║*║ ║
+║o║*║o║*║o║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Joan's turn:
+> 5
+ 1 2 3 4 5
+║ ║*║o║*║*║
+║o║*║o║*║o║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+Anna's turn:
+> 1
+ 1 2 3 4 5
+║o║*║o║*║*║
+║o║*║o║*║o║
+║o║*║o║*║o║
+║*║o║*║o║*║
+║o║*║o║*║o║
+╚═╩═╩═╩═╩═╝
+It is a draw
+Score
+Anna: 3 Joan: 3
+Game over!
+?[1;31m
+Start test 8?[0m
+Connect Four
+First player's name:
+> Anna
+Second player's name:
+> Joan
+Set the board dimensions (Rows x Columns)
+Press Enter for default (6 x 7)
+> 5x6
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+> 0
+Invalid input
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+> X
+Invalid input
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+> i
+Invalid input
+Do you want to play single or multiple games?
+For a single game, input 1 or press Enter
+Input a number of games:
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: 'val n: Int = readLine()'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11263#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 25 Oct 2021 13:50:17 UTC
+record: -1

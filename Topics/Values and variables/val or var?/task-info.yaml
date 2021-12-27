@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    val number = 2
+    number = 5
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7307#comment
+status: Solved
+feedback:
+  message: |-
+    <html>The first way is to make the variable `var`. The second is to remove the second line and change the value in the first line.
+
+    </html>
+  time: Sun, 24 Oct 2021 05:39:37 UTC
+record: -1

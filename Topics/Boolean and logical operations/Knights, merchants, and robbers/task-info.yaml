@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun main() {    \n    val firstAnswer = readLine().toBoolean() // read other\
+    \ values in the same way\n    // write your code here\n\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12312#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 27 Oct 2021 07:53:54 UTC
+record: -1

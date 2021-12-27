@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun main() {\n    // write your code here    \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9045#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #4 of 11. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    biiiiig
+    Correct output:
+    2
+
+    Your code output:
+    3
+  time: Thu, 04 Nov 2021 05:10:26 UTC
+record: -1

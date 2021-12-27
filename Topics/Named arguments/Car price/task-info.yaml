@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // complete this function, add default values
+    fun carPrice(old: Int, kilometers, maximumSpeed: Int, automatic: Boolean){
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4719#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 24 Dec 2021 07:26:09 UTC
+record: -1

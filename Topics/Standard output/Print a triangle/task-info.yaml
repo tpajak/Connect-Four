@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // show me what you got...
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15361#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 23 Oct 2021 16:12:57 UTC
+record: -1

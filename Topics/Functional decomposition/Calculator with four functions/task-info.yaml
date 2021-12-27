@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // Implement your functions here
+    fun subtractTwoNumbers...
+
+
+    fun sumTwoNumbers...
+
+
+    fun divideTwoNumbers...
+
+
+    fun multiplyTwoNumbers...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12673#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 23 Dec 2021 17:40:27 UTC
+record: -1
